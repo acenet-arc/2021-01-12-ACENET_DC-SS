@@ -73,7 +73,7 @@ displayed if the 'eventbrite' field in the header is not set.
 <strong>Some adblockers block the registration window. If you do not see the
   registration box below, please check your adblocker settings.</strong>
 <iframe
-  src=""
+  src="https://www.eventbrite.ca/e/acenet-data-organization-analysis-for-humanities-and-social-sciences-tickets-126096517077"
   frameborder="0"
   width="100%"
   height="280px"
